@@ -7,11 +7,22 @@ A Swift-based iOS application designed to track and display cryptocurrency trend
 - Intuitive UI for better user experience.
 - Interactive elements for viewing detailed trends.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/a3201b83-5a22-4d9d-94f9-901a023f289a)
+![image](https://github.com/user-attachments/assets/5f638617-b3ef-49f9-a2d4-c847b9a640ae)
+![image](https://github.com/user-attachments/assets/b9baf2c3-f834-42bf-9734-d1ca8f335e4e)
+
+
+
+
 ## Project Arcgitecture
 - MVVM-R(Repositroy for NSCache image)-C(Coordinator)
 
 ## Framework Used
 - SwiftUI
+
+## Testing
+- Used XC Unit testing
 
 ## Getting Started
 1. Clone the repository:
