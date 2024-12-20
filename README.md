@@ -8,10 +8,10 @@ A Swift-based iOS application designed to track and display cryptocurrency trend
 - Interactive elements for viewing detailed trends.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/a3201b83-5a22-4d9d-94f9-901a023f289a)
-![image](https://github.com/user-attachments/assets/5f638617-b3ef-49f9-a2d4-c847b9a640ae)
-![image](https://github.com/user-attachments/assets/b9baf2c3-f834-42bf-9734-d1ca8f335e4e)
 
+<img src="https://github.com/user-attachments/assets/a3201b83-5a22-4d9d-94f9-901a023f289a" width="300" alt="Screenshot 1">
+<img src="https://github.com/user-attachments/assets/5f638617-b3ef-49f9-a2d4-c847b9a640ae" width="300" alt="Screenshot 2">
+<img src="https://github.com/user-attachments/assets/b9baf2c3-f834-42bf-9734-d1ca8f335e4e" width="300" alt="Screenshot 3">
 
 
 
